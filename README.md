@@ -4,3 +4,6 @@ abcdefg
 hijklmnop
 qrstuv
 wxyz
+red
+yellow
+blue
